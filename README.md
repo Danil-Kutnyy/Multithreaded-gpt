@@ -1,7 +1,3 @@
-Here's a draft for the README file of your **Multithreaded GPT** project:
-
----
-
 # Multithreaded GPT
 
 Multithreaded GPT is an experimental extension of GPT models, designed to explore parallel processing in transformers by applying unique sets of weights for each token in a sequence. This project builds on the transformer architecture from [Andrej Karpathy's nanoGPT course](https://github.com/karpathy/nanoGPT) and introduces a custom `MultiLinear` layer to handle token-specific weights for more intelligent processing.
